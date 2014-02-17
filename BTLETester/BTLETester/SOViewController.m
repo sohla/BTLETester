@@ -12,9 +12,9 @@
 @property (weak, nonatomic) IBOutlet UILabel *minorLabel;
 
 @property CLLocationManager *locationManager;
-@property NSMutableDictionary *rangedRegions;
 @property (retain, nonatomic) CADisplayLink *displayLink;
 
+@property NSMutableDictionary *rangedRegions;
 @property NSMutableDictionary *beacons;
 
 
@@ -100,10 +100,7 @@
     }
     
     NSSortDescriptor *rssiSD = [NSSortDescriptor sortDescriptorWithKey: @"rssi" ascending: NO];
-
     NSArray *closest = [allBeacons sortedArrayUsingDescriptors:@[rssiSD]];
-
-    
     NSNumber *closestMinor = [[closest firstObject] valueForKey:@"minor"];
     
     if(closestMinor != NULL){
