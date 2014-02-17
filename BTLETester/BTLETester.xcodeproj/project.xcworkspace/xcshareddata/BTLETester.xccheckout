@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EF00C602-DA5D-4229-962A-8E0F6ECC1674</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BTLETester</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2ACE1C07-2672-465C-A5E1-D3EEE7539349</key>
+		<string>ssh://github.com/sohla/BTLETester.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BTLETester/BTLETester.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2ACE1C07-2672-465C-A5E1-D3EEE7539349</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/sohla/BTLETester.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2ACE1C07-2672-465C-A5E1-D3EEE7539349</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2ACE1C07-2672-465C-A5E1-D3EEE7539349</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BTLETester</string>
+		</dict>
+	</array>
+</dict>
+</plist>
